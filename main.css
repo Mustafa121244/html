@@ -1,5 +1,28 @@
 html {
-    font-size: 33;
+    font-size: 20px;
     background-color: rgb(102, 194, 163);
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+hr {
+    color: rgb(236, 26, 26);
+    
+}
+a:visited {
+    color: antiquewhite;
+     
+}
+a:hover {
+    color: brown;
+}
+table , tr , td , th , caption {
+    border: 2px solid ;
+    font-family: 'Courier New', Courier, monospace;
+    border-collapse: collapse;
+    padding: 1rem;
+}
+form {
+    color: black;
+    border: 20px;
+    background-color: brown;
+    
 }
